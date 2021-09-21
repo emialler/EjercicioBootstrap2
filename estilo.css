@@ -1,0 +1,20 @@
+section {
+    width: 50%;
+    margin: 30px auto;
+}
+
+form {
+    background-color: #f8f9fb;
+    padding: 0 20px;
+}
+
+.check {
+    border-top: 2px solid #e9ecef;
+    border-bottom: 2px solid #e9ecef;
+    padding: 20px 0 15px 0;
+    margin-top: 30px;
+}
+
+span {
+    color: gray;
+}
